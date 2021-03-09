@@ -1,3 +1,5 @@
+[![Actions Status](../../workflows/build/badge.svg)](../../actions)
+
 # cs203s2021-activity4
 
 ## DUE: by Thursday, March 11 
